@@ -48,6 +48,7 @@ That was able to output a csv file that held event names and their action classi
 I was recruited to join a project interested in visualising public opinion polls, but want to finish the previous task before I look more into this.
 
 *Augest 1, 2017*
+
 Have been trying for a few days to scrape https://resistancenearme.org/ but ran into trouble. Tried asking for help, but I'm still stumped.
 
 
