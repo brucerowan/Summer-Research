@@ -51,6 +51,16 @@ I was recruited to join a project interested in visualising public opinion polls
 
 Have been trying for a few days to scrape https://resistancenearme.org/ but ran into trouble. Tried asking for help, but I'm still stumped.
 
+*Augest 5, 2017*
+
+Still working on scraping https://resistancenearme.org/ got some help but then they changed the format of the website. Asked for more help yesturday and found someone to work through it with me tonight. 
+
+Currently trying to find another task
+
+
+
+
+
 
 
 
