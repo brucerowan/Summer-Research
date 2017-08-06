@@ -53,9 +53,9 @@ Have been trying for a few days to scrape https://resistancenearme.org/ but ran 
 
 *Augest 5, 2017*
 
-Still working on scraping https://resistancenearme.org/ got some help but then they changed the format of the website. Asked for more help yesturday and found someone to work through it with me tonight. 
+Still working on scraping https://resistancenearme.org/ got some help but then they changed the format of the website. Just figured out how to click the items in the dropdown menue using the selenium package. This is a huge step forward and I should be able to finish scraping the website tomorrow!
 
-Currently trying to find another task
+Currently trying to find another task to work on
 
 
 
