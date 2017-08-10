@@ -55,8 +55,14 @@ Have been trying for a few days to scrape https://resistancenearme.org/ but ran 
 
 Still working on scraping https://resistancenearme.org/ got some help but then they changed the format of the website. Just figured out how to click the items in the dropdown menue using the selenium package. This is a huge step forward and I should be able to finish scraping the website tomorrow!
 
-Currently trying to find another task to work on
+*August 9, 2017*
 
+Finished the scraper for https://resistancenearme.org/. I could still put in a little more work to seperate the date and time variables as well as implementing a function that would actually add the new csv to a larger csv from other websites. Once I do that I will see what the next steps are. The people in this project have been really slow at responding. 
+
+The woman with the civic data viz group thought my ideas of the segmented bar charts were good. I think they are still collecting data right now.
+
+I found another task with a project called USA Dashboard. They are trying to create a big dashboard to track important metrics in the US. This is important to see what policies should be made and the effects of those policies.
+The specific task I am doing with them is doing some sort of exploratory data analysis on crime data. I have just been given access to the data I think, but I havent started yet. 
 
 
 
