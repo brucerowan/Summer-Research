@@ -64,6 +64,20 @@ The woman with the civic data viz group thought my ideas of the segmented bar ch
 I found another task with a project called USA Dashboard. They are trying to create a big dashboard to track important metrics in the US. This is important to see what policies should be made and the effects of those policies.
 The specific task I am doing with them is doing some sort of exploratory data analysis on crime data. I have just been given access to the data I think, but I havent started yet. 
 
+*August 13*
+
+Still would like to add some features to the indivisible scrapers, however everyone on that project hasnt gotten back to me yet.
+
+USA dashboard project is kicking off. They sent me to a site called Mode Analytics but there were only 4 datasets on there, so I was worried we didn't have enough data. However, I just checked the github and they scrapped a good bit of data there.
+I'm currenty trying to think of ways to merge all the (crime) data together from each state and think of ways to perfrom EDA on them.
+
+There is a cool new side project through one of the immigration channels. I'm not too sure what they are trying to do with this data, however they want to scrape social media, mainly twitter, to do some research on specific hashtags and handles. 
+Using the twitter API is not going to work for this because it only allows you to scrape one week in the past. 
+To get around this I need to use Docker and Scrapy. Scrapy is the webscraping library that I tried and failed using on the first task. However, I was given a tutorial to do, and from what I gathered both of these tools are extremely useful, so I thought I'd give it another go. 
+
+
+
+
 
 
 
