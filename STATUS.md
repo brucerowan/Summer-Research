@@ -77,7 +77,15 @@ To get around this I need to use Docker and Scrapy. Scrapy is the webscraping li
 
 
 
+*Auguest 21*
 
+Still havent gotten word back from the indivisible scraper guys. All I need to do is figure out how to merge all the csv's together using a base_scraper class that one person has already created. Once that is done, the issue will be complete, unless any changes need to be made.
+
+I was working on doing the USA Dashboard EDA for the crime data with someone but he hasnt been online for a week now so I think I'm just going to do this on my own.
+
+I'm still waiting on a responce to figure out why Docker is needed to scrape twitter data. In the meantime I will be finishing up the Scrapy tutorial. 
+
+Ryan Moore, a cal poly stats major wants to help with the EDA task, so we will work on that tomorrow most likely. 
 
 
 
