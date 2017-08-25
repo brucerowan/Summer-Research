@@ -90,6 +90,7 @@ Ryan Moore, a cal poly stats major wants to help with the EDA task, so we will w
 
 
 *August 24*
+
 Finally got ahold of the person who can help me with the indivisible scraper. He said he was really busy with work but I'm still waiting on him to actually help me.
 
 Still waiting to get help for the twitter scraping project. I finished both the Docker and Scrapy tutorials but I still have no idea why Docker is needed to scrape twitter. 
