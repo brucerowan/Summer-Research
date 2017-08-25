@@ -89,6 +89,11 @@ Ryan Moore, a cal poly stats major wants to help with the EDA task, so we will w
 
 
 
+*August 24*
+Finally got ahold of the person who can help me with the indivisible scraper. He said he was really busy with work but I'm still waiting on him to actually help me.
 
+Still waiting to get help for the twitter scraping project. I finished both the Docker and Scrapy tutorials but I still have no idea why Docker is needed to scrape twitter. 
+
+Made some moves on the USA-Dashboard project. My task is to do some EDA on the crime data they collected. I put all the files into a google drive and created a google sheet that contains a lot of meta data (# of years, CSVs, schema of the data). Of the 17 cities I have data, I think 15 have 2016 data. Right now I'm in the process of subsetting the csv's to just the 2016 data, and then finding the most common crimes in each city and then the most common crimes accross all the cities. I'm still thinking of some more things I can do with this data. Hunter, if you are reading this, and have any ideas let me know! I can give a link to access the google drive. The data is pretty simple, just date, type of crime, and counts. 
 
 
