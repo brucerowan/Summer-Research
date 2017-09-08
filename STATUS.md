@@ -98,3 +98,12 @@ Still waiting to get help for the twitter scraping project. I finished both the 
 Made some moves on the USA-Dashboard project. My task is to do some EDA on the crime data they collected. I put all the files into a google drive and created a google sheet that contains a lot of meta data (# of years, CSVs, schema of the data). Of the 17 cities I have data, I think 15 have 2016 data. Right now I'm in the process of subsetting the csv's to just the 2016 data, and then finding the most common crimes in each city and then the most common crimes accross all the cities. I'm still thinking of some more things I can do with this data. Hunter, if you are reading this, and have any ideas let me know! I can give a link to access the google drive. The data is pretty simple, just date, type of crime, and counts. 
 
 
+*September 8*
+
+Finished the Indivisible Scraper, there are a few follow up steps I could continue to peruse within this project. 
+
+The twitter scraping master finally put up some example code that I havent had a chance to look at. The other people working on this task gave up learning scrapy because they were inexperienced with Python. 
+
+I did a lot of cleaning of the USA-Dashboard/crime dataset. The type variable is down from 308 to 215 factors. I handed my work to Ryan Moore so I could start to work on other projects. I expect him to be able to refine the number of factors down to 125-175. Then we can start doing some time series/visualization. 
+
+The poll town lady still hasnt given me a date she wants to come. Last time I talked to her she was still waiting to confirm the meeting with the mayor. I tried reading some survey sampling books from the stats lab but because I believe she is proposing a probabilistic sample design, a lot of the usual sampling inference methods will be invalid. This will also cause a lot of bias in the reponse, which will need to be addressed. 
